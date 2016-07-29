@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Greetings from Sunny Seattle / TR 23!
+
